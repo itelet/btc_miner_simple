@@ -1,0 +1,16 @@
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\mininh.exe
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\mininh.deps.json
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\mininh.runtimeconfig.json
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\mininh.runtimeconfig.dev.json
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\mininh.dll
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\ref\mininh.dll
+C:\Users\szabo\Desktop\mininh\bin\Debug\net5.0\mininh.pdb
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.csprojAssemblyReference.cache
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.AssemblyInfoInputs.cache
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.AssemblyInfo.cs
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.csproj.CoreCompileInputs.cache
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.dll
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\ref\mininh.dll
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.pdb
+C:\Users\szabo\Desktop\mininh\obj\Debug\net5.0\mininh.genruntimeconfig.cache
